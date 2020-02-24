@@ -1,5 +1,5 @@
 {
-    "name": "repack/html-sanitizer",
+    "name": "drnkwati/repack-htmlsanitizer",
     "description": "Sanitize untrustworthy HTML input",
     "type": "library",
     "license": "MIT",
